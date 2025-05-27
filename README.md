@@ -7,7 +7,7 @@
 
 ## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/DemonArmyBot/Demon-uploader)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/I-Devil-69/txtdl_uploader)
 
 
 ## Credit
