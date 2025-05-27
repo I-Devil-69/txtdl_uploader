@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: forwarder
+    plan: free
+    env: docker
+    dockerfilePath: Dockerfile
+    repo: https://github.com/I-Devil-69/txtdl_uploader
+    branch: main
+    autoDeploy: false
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      #- key: WEBHOOK
+        #sync: false
+      - key: PORT
+        value: 8989  # Default port value, update if needed
